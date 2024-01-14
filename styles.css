@@ -10,3 +10,8 @@ h1 {
 h2 {
     font-size: 48px;
 }
+
+.recipe-link {
+    font-size: 36px;
+    list-style-type: none;
+}
