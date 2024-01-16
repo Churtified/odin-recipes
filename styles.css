@@ -47,3 +47,8 @@ img {
 .ingredients-title {
     text-align: center;
 }
+
+.ingredients-lists {
+    text-align: center;
+    list-style-type: none;
+}
