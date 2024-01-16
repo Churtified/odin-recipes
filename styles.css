@@ -22,6 +22,10 @@ img {
     margin-right: auto;
 }
 
+.recipe-title {
+    text-align: center;
+}
+
 .recipe-link {
     font-size: 36px;
     list-style-type: none;
