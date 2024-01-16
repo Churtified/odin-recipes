@@ -56,3 +56,8 @@ img {
 .steps-title {
     text-align: center;
 }
+
+.steps {
+    text-align: center;
+    list-style-type: none;
+}
