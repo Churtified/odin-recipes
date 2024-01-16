@@ -39,3 +39,7 @@ img {
 .main-title {
     font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
+
+.blurb {
+    text-align: center;
+}
