@@ -1,3 +1,4 @@
 # odin-recipes
 
-In this project, I'll be building a basic recipe website. It will contain no styling, so will look ugly af. Maybe later I'll change it.
+In this project, I'll be building a basic recipe website.
+Currently it has a bit of basic styling, nothing fancy.
